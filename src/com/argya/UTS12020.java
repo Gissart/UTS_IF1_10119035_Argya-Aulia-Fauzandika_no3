@@ -1,5 +1,10 @@
 package com.argya;
-
+/*
+Nama        : Argya Aulia Fauzandika
+Kelas       : IF1
+NIM         : 10119035
+Deskripsi   : Program uts 
+*/
 public class UTS12018 {
     public static void main(String[] args){
         MusicGenre music = new MusicGenre();
